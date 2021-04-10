@@ -8,7 +8,12 @@ export default function Home() {
       <ExperienceBar />
 
       <section>
-        
+        <div>
+
+        </div>
+        <div>
+          
+        </div>
       </section>
     </div>
   );
